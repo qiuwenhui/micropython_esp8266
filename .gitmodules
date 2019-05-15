@@ -1,0 +1,3 @@
+[submodule "micropython_build/micropython"]
+	path = micropython_build/micropython
+	url = https://github.com/peterhinch/micropython.git

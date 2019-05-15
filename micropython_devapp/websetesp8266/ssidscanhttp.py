@@ -36,3 +36,4 @@ while True:
     response = html % '\n'.join(rows)
     cl.send(response)
     cl.close()
+
